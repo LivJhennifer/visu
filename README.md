@@ -1,2 +1,0 @@
-# visu
-Visualização de dados
